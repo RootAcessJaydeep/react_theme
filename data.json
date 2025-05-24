@@ -1,0 +1,31 @@
+{
+    
+    const banners = [
+    {
+      title: "Summer Collection 2023",
+      subtitle: "Up to 40% off on selected items.",
+      buttonText: "Shop Now",
+      buttonLink: "category.html",
+      image: "https://source.unsplash.com/1600x600/?summer,fashion",
+      bg: "bg-gradient-to-r from-indigo-500 to-purple-600",
+    },
+    {
+      title: "Winter Essentials",
+      subtitle: "Stay warm with our cozy picks.",
+      buttonText: "Explore",
+      buttonLink: "winter.html",
+      image: "https://source.unsplash.com/1600x600/?winter,clothes",
+      bg: "bg-gradient-to-r from-blue-500 to-cyan-600",
+    },
+    {
+      title: "New Arrivals",
+      subtitle: "Fresh styles just dropped.",
+      buttonText: "View Now",
+      buttonLink: "new.html",
+      image: "https://source.unsplash.com/1600x600/?fashion,style",
+      bg: "bg-gradient-to-r from-green-500 to-lime-500",
+    },
+  ];
+
+
+}
